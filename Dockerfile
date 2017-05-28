@@ -14,7 +14,6 @@ RUN yum -y update \
 		gnome-themes-standard \
 		dbus-x11 \ 
 		libreoffice \  
-		python-pip \
 
 
 # tini for subreap                                   
